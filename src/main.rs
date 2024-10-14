@@ -1,4 +1,4 @@
-use std::io; // Додали імпорт модуля io
+use std::io;
 
 fn invert_the_case(s: &str) -> String {
     let mut result = String::new();
